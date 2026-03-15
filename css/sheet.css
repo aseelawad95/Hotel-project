@@ -219,3 +219,16 @@ box-shadow: none;
   color: var(--text-black);
   font-weight: 500;
 }
+
+
+ /* About Section */
+.text-broun{
+   color: var(--secondary-text);
+    
+   line-height: 4rem;   
+}
+
+ .about_wrapper{
+ padding: 9.375rem;
+ }
+ /* End */

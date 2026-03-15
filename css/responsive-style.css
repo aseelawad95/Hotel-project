@@ -19,6 +19,8 @@
     padding-left: .3125rem !important;
     padding-right: .3125rem !important;
 }
+
+
 }
 
 
@@ -41,6 +43,10 @@
 .booking-area {
     padding: 3rem .625rem;
 }
+
+ .about_wrapper{
+ /* padding-top: 22.375rem; */
+ }
 
 }
 
