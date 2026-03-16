@@ -200,14 +200,15 @@ box-shadow: none;
 .slide-2{
     background-image: url("/assets/images/slider/slider2.webp");
 }
-
+/* booking */
 .booking-area{
     background-color: var(--bg-white);
-    box-shadow: 0 .625rem 1.25rem -.625rem rgb(0 0 0 / 10%);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
     margin-top: -4rem;
     padding: 3.125rem 1.25rem;
     position: relative;
     z-index: 9999999;
+    overflow: hidden;
 }
 
 .booking-area .form-control,
@@ -220,6 +221,7 @@ box-shadow: none;
   font-weight: 500;
 }
 
+/* booking */
 
  /* About Section */
 .text-broun{
