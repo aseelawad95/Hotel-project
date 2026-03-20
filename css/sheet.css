@@ -509,3 +509,23 @@ left: 50%;
 }
 
 /* Price Section */
+.pricing_wrapper .card{
+    box-shadow: 0 .125rem .25rem rgba(34 30 31/ 40%);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.pricing_wrapper .card:hover{
+    background-color:var(--secondary-color) ;
+}
+
+.pricing_wrapper .card:hover h3,
+.pricing_wrapper .card:hover h5,
+.pricing_wrapper .card:hover p{
+    color: var(--text-white);
+}
+
+.pricing_wrapper .card:hover .main-btn{
+     color: var(--text-white);
+     border-color: var(--text-white);
+}
