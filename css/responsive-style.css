@@ -128,4 +128,8 @@ font-size: 1.5rem;
         line-height: 1.5rem;
     }
 
+    .blog_wrapper .blog-content{
+        margin: 0;
+    }
+
 }
