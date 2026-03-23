@@ -172,6 +172,8 @@ box-shadow: none;
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
 }
 
+
+
 @keyframes fadeInDown {
     0% {
       top: -30px;
