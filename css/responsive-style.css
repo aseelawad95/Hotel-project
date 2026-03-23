@@ -132,4 +132,8 @@ font-size: 1.5rem;
         margin: 0;
     }
 
+    .footer_wrapper >  div {
+        padding: 0 1.875rem;
+    }
+
 }
