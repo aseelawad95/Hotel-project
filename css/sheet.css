@@ -133,6 +133,7 @@ p{
     box-shadow: 0 .5rem .375rem -.375rem rgb(0 0 0 / 40%);
     -webkit-transition: background 0s ease-in-out 0s, margin-top 0s ease-in-out 0s, opacity 0s ease-in-out 0s;
     transition: background 0s ease-in-out 0s, margin-top 0s ease-in-out 0s, opacity 0s ease-in-out 0s;
+     z-index: 9999;
 }
 
 .header_wrapper .navbar-toggler{
@@ -209,7 +210,7 @@ box-shadow: none;
     margin-top: -4rem;
     padding: 3.125rem 1.25rem;
     position: relative;
-    z-index: 9999999;
+    z-index: 999;
     overflow: hidden;
 }
 
