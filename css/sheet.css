@@ -197,12 +197,13 @@ box-shadow: none;
 }
 
 .slide-1{
-    background-image: url("/assets/images/slider/slider1.webp");
+    background-image: url("../assets/images/slider/slider1.webp");
 }
 
 .slide-2{
-    background-image: url("/assets/images/slider/slider2.webp");
+    background-image: url("../assets/images/slider/slider2.webp");
 }
+
 /* booking */
 .booking-area{
     background-color: var(--bg-white);
